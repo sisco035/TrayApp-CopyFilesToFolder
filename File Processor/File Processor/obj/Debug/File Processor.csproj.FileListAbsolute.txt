@@ -7,3 +7,6 @@ c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Process
 c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\File Processor.pdb
 C:\Users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\FileProcessorApp.Properties.Resources.resources
 C:\Users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\FileProcessorApp.Form1.resources
+C:\Users\21221\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\bin\Debug\File Processor.exe.config
+C:\Users\21221\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.exe
+C:\Users\21221\Documents\GitHub\TrayApp-CopyFilesToFolder\File Processor\File Processor\obj\Debug\File Processor.pdb
