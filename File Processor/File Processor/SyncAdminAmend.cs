@@ -20,6 +20,7 @@ namespace FileProcessorApp
             //DirectoryInfo di = new DirectoryInfo(@"C:\Users\20904\Desktop\olddest\");
 
             //C:\\Users\\20904\\Desktop\\newdest
+            //TEst
 
             string[] fileInfo = Directory.GetFiles(sourcePath);
             try
