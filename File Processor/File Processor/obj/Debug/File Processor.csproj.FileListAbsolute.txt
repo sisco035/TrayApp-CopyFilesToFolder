@@ -1,0 +1,9 @@
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\bin\Debug\File Processor.exe.config
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\bin\Debug\File Processor.exe
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\bin\Debug\File Processor.pdb
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\File Processor.csprojResolveAssemblyReference.cache
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\File Processor.csproj.GenerateResource.Cache
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\File Processor.exe
+c:\users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\File Processor.pdb
+C:\Users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\FileProcessorApp.Properties.Resources.resources
+C:\Users\20904\documents\visual studio 2013\Projects\File Processor\File Processor\obj\Debug\FileProcessorApp.Form1.resources
