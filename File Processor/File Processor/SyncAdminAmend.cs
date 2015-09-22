@@ -21,6 +21,7 @@ namespace FileProcessorApp
 
             //C:\\Users\\20904\\Desktop\\newdest
             //TEst
+            //new test
 
             string[] fileInfo = Directory.GetFiles(sourcePath);
             try
